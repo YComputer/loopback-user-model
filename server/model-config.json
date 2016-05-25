@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Example": {
+    "dataSource": "db",
+    "public": true
   }
 }
